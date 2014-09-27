@@ -1,0 +1,9 @@
+c:\users\风漠兮\documents\visual studio 2013\Projects\批量获取代理IP\批量获取代理IP\bin\Debug\批量获取代理IP.exe.config
+c:\users\风漠兮\documents\visual studio 2013\Projects\批量获取代理IP\批量获取代理IP\bin\Debug\批量获取代理IP.exe
+c:\users\风漠兮\documents\visual studio 2013\Projects\批量获取代理IP\批量获取代理IP\bin\Debug\批量获取代理IP.pdb
+c:\users\风漠兮\documents\visual studio 2013\Projects\批量获取代理IP\批量获取代理IP\obj\Debug\批量获取代理IP.csprojResolveAssemblyReference.cache
+c:\users\风漠兮\documents\visual studio 2013\Projects\批量获取代理IP\批量获取代理IP\obj\Debug\批量获取代理IP.Form1.resources
+c:\users\风漠兮\documents\visual studio 2013\Projects\批量获取代理IP\批量获取代理IP\obj\Debug\批量获取代理IP.Properties.Resources.resources
+c:\users\风漠兮\documents\visual studio 2013\Projects\批量获取代理IP\批量获取代理IP\obj\Debug\批量获取代理IP.csproj.GenerateResource.Cache
+c:\users\风漠兮\documents\visual studio 2013\Projects\批量获取代理IP\批量获取代理IP\obj\Debug\批量获取代理IP.exe
+c:\users\风漠兮\documents\visual studio 2013\Projects\批量获取代理IP\批量获取代理IP\obj\Debug\批量获取代理IP.pdb
